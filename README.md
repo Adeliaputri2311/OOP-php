@@ -36,10 +36,6 @@ Project ini menampilkan data buku dari database melalui pendekatan Object-Orient
     > PDO (PHP Data Objects) untuk koneksi database
     > GitHub (version control)
 
-📸 Screenshot (Bukti Pengerjaan)
-
-    ![image alt](https://github.com/Adeliaputri2311/OOP-php/blob/6f5daa7265661adae0b3195195a439342d8c310a/screenshots/ss-website.png?raw=true)
-
 👤 Pembuat
 
     Nama: Adelia Putri

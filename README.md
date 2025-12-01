@@ -38,8 +38,7 @@ Project ini menampilkan data buku dari database melalui pendekatan Object-Orient
 
 📸 Screenshot (Bukti Pengerjaan)
 
-    Bukti SS	        │    Keterangan
-    ![Books](screenshots/ss-website.png)	    │    Tampilan website yang menampilkan tabel buku
+    ![ss-website]()
 
 👤 Pembuat
 
